@@ -7,13 +7,6 @@ using namespace std;
 	A sequência recebeu o nome do matemático italiano Leonardo de Pisa ou Leonardo Fibonacci, mais conhecido por apenas Fibonacci, 
 	que descreveu, no ano de 1202, o crescimento de uma população de coelhos, a partir desta.
 	
-	A sequência de Fibonacci está intrinsecamente ligada à natureza. Estes números são facilmente encontrados no arranjo de folhas do ramo de uma planta, 
-	em copas das árvores ou até mesmo no número de pétalas das flores.
-	As sementes das flores, frutos e, de forma particularmente interessante, as pinhas, trazem no seu escopo natural esta sequência. 
-	Como esta proporção trata-se de uma sucessão numérica, é possível perceber, em vários traços notáveis, 
-	a manifestação desta em muitos aspectos da natureza de maneira estética e funcional. Tal linha de análise é, muitas vezes, 
-	utilizada como base explicativa para a teoria criacionista denominada Design Inteligente. 
-	
 	Esta sequência já era, no entanto, conhecida na antiguidade.
 	Os números de Fibonacci são, portanto, os números que compõem a seguinte sequência;
 	
